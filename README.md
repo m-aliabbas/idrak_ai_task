@@ -1,6 +1,6 @@
 # idrak_ai_task
 This repo contains the task assign by idark ai.
-
+Idraak_Tutorial.mp4 this video contains all the process
 
 
 ## To extract features
