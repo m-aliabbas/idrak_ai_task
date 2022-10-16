@@ -1,6 +1,7 @@
 # idrak_ai_task
 This repo contains the task assign by idark ai.
 
+<video src='Idraak_Tutorial.mp4' width=180/>
 
 ## To extract features
 ```
