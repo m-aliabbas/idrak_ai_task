@@ -1,9 +1,16 @@
 # idrak_ai_task
 This repo contains the task assign by idark ai.
 Idraak_Tutorial.mp4 this video contains all the process
+# Ussage:
 
+## (Step 1) activate virtual envoirnment
 
-## To extract features
+## (Step 2) Installing require modules
+```
+pip install -r requirements.txt
+```
+
+## (Step 3) To extract features
 ```
 python extract_feature.py
 ```
@@ -16,7 +23,7 @@ python extract_feature.py
 
 ```
 
-## Inference 
+## (Step 4) Inference 
 For inference we made a GUI based application. This application is developed in Flat. 
 Flat is a python based module , which create flutter like applications.
 
