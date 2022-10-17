@@ -70,3 +70,6 @@ python gui_app.py
 It will run a flutter based application in which you will pass the question and it give us answers.
 
 ![Screenshot](screenshot.png)
+
+
+Thanks 
